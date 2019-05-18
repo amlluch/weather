@@ -1,0 +1,47 @@
+url,nombre
+/mapinfo/ESAND,"Andalucía, Ceuta y Melilla"
+/mapinfo/ESARA,Aragón
+/mapinfo/ESAST,Principau d'Asturies
+/mapinfo/ESCTB,Cantabria
+/mapinfo/ESCYL,Castilla y León
+/mapinfo/ESCLM,Castilla-La Mancha
+/mapinfo/ESCAT,Catalunya / Principat d'Andorra
+/mapinfo/ESMUR,Comunidad Autónoma de la Región de Murcia
+/mapinfo/ESMAD,Comunidad de Madrid
+/mapinfo/ESEUS,Euskadi
+/mapinfo/ESEXT,Extremadura
+/mapinfo/ESGAL,Galiza
+/mapinfo/ESIBA,Illes Balears
+/mapinfo/ESICA,Islas Canarias
+/mapinfo/ESLRI,La Rioja
+/mapinfo/ESNAF,Nafarroa
+/mapinfo/ESPVA,País Valencià
+/mapinfo/PTNOR,Portugal Norte
+/mapinfo/PTCEN,Portugal Centro
+/mapinfo/PTSUR,Portugal Sur
+/mapinfo/PTAZR,Região Autónoma dos Açores
+/mapinfo/PTMAD,Região Autónoma da Madeira
+[
+{"url": "/mapinfo/ESAND", "nombre": "Andaluc\u00eda,\u00a0Ceuta\u00a0y\u00a0Melilla"},
+{"url": "/mapinfo/ESARA", "nombre": "Arag\u00f3n"},
+{"url": "/mapinfo/ESAST", "nombre": "Principau\u00a0d'Asturies"},
+{"url": "/mapinfo/ESCTB", "nombre": "Cantabria"},
+{"url": "/mapinfo/ESCYL", "nombre": "Castilla\u00a0y\u00a0Le\u00f3n"},
+{"url": "/mapinfo/ESCLM", "nombre": "Castilla-La\u00a0Mancha"},
+{"url": "/mapinfo/ESCAT", "nombre": "Catalunya\u00a0/\u00a0Principat\u00a0d'Andorra"},
+{"url": "/mapinfo/ESMUR", "nombre": "Comunidad\u00a0Aut\u00f3noma\u00a0de\u00a0la\u00a0Regi\u00f3n\u00a0de\u00a0Murcia"},
+{"url": "/mapinfo/ESMAD", "nombre": "Comunidad\u00a0de\u00a0Madrid"},
+{"url": "/mapinfo/ESEUS", "nombre": "Euskadi"},
+{"url": "/mapinfo/ESEXT", "nombre": "Extremadura"},
+{"url": "/mapinfo/ESGAL", "nombre": "Galiza"},
+{"url": "/mapinfo/ESIBA", "nombre": "Illes\u00a0Balears"},
+{"url": "/mapinfo/ESICA", "nombre": "Islas\u00a0Canarias"},
+{"url": "/mapinfo/ESLRI", "nombre": "La\u00a0Rioja"},
+{"url": "/mapinfo/ESNAF", "nombre": "Nafarroa"},
+{"url": "/mapinfo/ESPVA", "nombre": "Pa\u00eds\u00a0Valenci\u00e0"},
+{"url": "/mapinfo/PTNOR", "nombre": "Portugal\u00a0Norte"},
+{"url": "/mapinfo/PTCEN", "nombre": "Portugal\u00a0Centro"},
+{"url": "/mapinfo/PTSUR", "nombre": "Portugal\u00a0Sur"},
+{"url": "/mapinfo/PTAZR", "nombre": "Regi\u00e3o Aut\u00f3noma dos A\u00e7ores"},
+{"url": "/mapinfo/PTMAD", "nombre": "Regi\u00e3o Aut\u00f3noma da Madeira"}
+]
