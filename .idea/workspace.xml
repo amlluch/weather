@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9da31b3-effc-4935-bdac-9b867fcff24c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/meteo/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meteo/dbs/default.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meteo/logs/default/meteoclimatic/1c7eb9e43e0711e9b0223010b3b3c7fc.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meteo/logs/default/meteoclimatic/220fc8883e0911e9b0223010b3b3c7fc.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meteo/logs/default/meteoclimatic/3c4b02183e0811e9b0223010b3b3c7fc.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meteo/logs/default/meteoclimatic/7e80e47c3e0d11e9b0223010b3b3c7fc.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meteo/logs/default/meteoclimatic/a2a69ff03e0c11e9b0223010b3b3c7fc.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meteo/logs/default/meteoclimatic/e6daa3ec3e0c11e9b0223010b3b3c7fc.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meteo/meteo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meteo/meteo/items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meteo/meteo/middlewares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meteo/meteo/pipelines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meteo/meteo/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meteo/meteo/spiders/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meteo/meteo/spiders/meteoclimatic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meteo/nuevos" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meteo/scrapy.cfg" afterDir="false" />
-    </list>
+    <list default="true" id="f9da31b3-effc-4935-bdac-9b867fcff24c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +37,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -73,7 +55,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -142,7 +124,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/meteo" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -340,7 +322,7 @@
       <workItem from="1557738641054" duration="291000" />
       <workItem from="1557739269613" duration="5625000" />
       <workItem from="1557759319174" duration="602000" />
-      <workItem from="1558168542680" duration="295000" />
+      <workItem from="1558168542680" duration="1673000" />
     </task>
     <servers />
   </component>
@@ -353,7 +335,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127340000" />
+    <option name="totallyTimeSpent" value="128718000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -588,17 +570,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
